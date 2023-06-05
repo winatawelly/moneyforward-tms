@@ -1,0 +1,17 @@
+.DataDisplay {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-style: solid;
+  padding: 12px 48px;
+}
+
+.DataDisplayTitle {
+  font-size: 16px;
+}
+
+.DataDisplayData {
+  font-size: 24px;
+  font-weight: bold;
+}
