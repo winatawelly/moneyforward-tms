@@ -7,3 +7,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - clone this repo
 - install package using yarn (`yarn install`) or npm (`npm install`)
 - run the scring using yarn (`yarn start`) or npm (`npm run start`)
+
+## Live Demo
+
+- https://moneyforward-tms.vercel.app/
+
+## Github
+
+- https://github.com/winatawelly/moneyforward-tms
